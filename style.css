@@ -1,0 +1,30 @@
+#game-area {
+  width: 500px;
+  height: 500px;
+  background-color: rgb(36,36,36);
+}
+
+#game-area, td {
+  border: 1px solid rgb(187,187,187);
+  border-collapse: collapse;
+}
+
+
+.draw-point {
+  background-color: rgb(245,62,62);
+}
+
+.draw-player {
+  background-color: #fff !important;
+}
+
+
+#game-status {
+  font-family: arial;
+  font-size: 20px;
+}
+
+.game-score {
+  font-family: arial;
+  font-size: 20px;
+}
